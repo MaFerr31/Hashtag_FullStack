@@ -8,6 +8,7 @@ Com FrontEnd e Backend Included
 Responsividade da Interface;
 VsCode e Node.Js;
 Desenvolvimento com React + Vite.
+Desenvolvimento em Express + MongoDB
 
 # React + Vite
 
